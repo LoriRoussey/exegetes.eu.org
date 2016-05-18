@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The “exégètes amateurs” (eggs hey jet amateurs)
+title: The “exégètes amateurs” [eggs hey jet amateurs]
 modified: 2016-04-02
 ---
 
@@ -18,7 +18,7 @@ internet access provider, since 1992), [La Quadrature du Net][lqdn] and the
 
 You can
 [learn more](https://www.mediapart.fr/en/journal/france/291015/web-activists-debugging-frances-surveillance-laws) (en)
-about us the media.
+about us in the media.
 
 You can also get an overview of our previous actions at [La Quadrature
 du Net's website](https://www.laquadrature.net/fr/recours#english).
