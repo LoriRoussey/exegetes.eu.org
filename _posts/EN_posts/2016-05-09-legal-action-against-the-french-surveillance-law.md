@@ -6,18 +6,13 @@ tags: [intelligence, CouncilofState, ConstitutionalCouncil]
 comments: true
 ---
 
-In June 2015, French newspaper Le Figaro titled: "Opponents to the Surveillance Law make their last-ditch effort"[^figaro]. Not so! Since the partial validation of the Surveillance Bill by the French Constitutional Council last summer, we have been working to lodge a complaint with the French Council of State.
-
-[^figaro]: Source: [Le Figaro, 23 June 2015 \[FR\]](http://www.lefigaro.fr/secteur/high-tech/2015/06/23/32001-20150623ARTFIG00268-loi-renseignement-les-opposants-tirent-leur-derniere-cartouche.php)
+In June 2015, French newspaper Le Figaro titled: "Opponents to the Surveillance Law make their last-ditch effort"[^](Source: [Le Figaro, 23 June 2015 \[FR\]](http://www.lefigaro.fr/secteur/high-tech/2015/06/23/32001-20150623ARTFIG00268-loi-renseignement-les-opposants-tirent-leur-derniere-cartouche.php). Not so! Since the partial validation of the Surveillance Bill by the French Constitutional Council last summer, we have been working to lodge a complaint with the French Council of State.
 
 This Friday, we filed several new documents with the help of the [Spinosi-Sureau law firm](http://www.spinosi-sureau.fr/index.html). These documents detail all of our arguments against French surveillance. Three years after the start of the Snowden revelations, while the Rule of Law buckles a little more each month under the battering of the Police State, we are now turning to judges to enforce our fundamental rights.
 
 # What is the scope of these actions?
 
-On 30 November 2015, the Federation of non-profit Internet service providers (FDN Federation), La Quadrature du Net and the French Data Network[^FDN](FDN), intiatied proceedings against the first three decrees implementing the [Surveillance Law\(s\)](https://wiki.laquadrature.net/French_Intelligence_Laws)[^trad].
-
-[^FDN]: The first French non-profit Internet access provider.
-[^trad]: La Quadrature du Net has translated these two laws. This translation is not official, but is the only one available.
+On 30 November 2015, the Federation of non-profit Internet service providers (FDN Federation), La Quadrature du Net and the French Data Network[^](The first French non-profit Internet access provider.)(FDN), intiatied proceedings against the first three decrees implementing the [Surveillance Law\(s\)](https://wiki.laquadrature.net/French_Intelligence_Laws)[^](La Quadrature du Net has translated these two laws. This translation is not official, but is the only one available.).
 
 Later on, following the publication of two additional decrees, two new challenges were introduced (one of which was filed by Igwan, a non-profit Internet access provider in the Antilles, member of the FDN Federation).
 
@@ -37,7 +32,7 @@ We have developed these arguments over these last five months and submit them to
 
 # What are our arguments?
 
-Put it simply: our strategy is to mobilise the European Court of Justice's (ECJ) case law, which has made landmark rulings concerning privacy protection these last months (see in particular the [Digital Rights](http://curia.europa.eu/juris/document/document.jsf?text=&docid=150642&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=1094471) case and the Schrems case](http://curia.europa.eu/juris/document/document.jsf?text=&docid=169195&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=1094238)). With this in mind, if the French Council of State were to refuse to directly apply this case law, we would suggest it several preliminary rulings that it would then have to be referred to the ECJ.
+Put it simply: our strategy is to mobilise the European Court of Justice's (ECJ) case law, which has made landmark rulings concerning privacy protection these last months \(see in particular the [Digital Rights](http://curia.europa.eu/juris/document/document.jsf?text=&docid=150642&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=1094471) case and the [Schrems case](http://curia.europa.eu/juris/document/document.jsf?text=&docid=169195&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=1094238)\). With this in mind, if the French Council of State were to refuse to directly apply this case law, we would suggest it several preliminary rulings that it would then have to be referred to the ECJ.
 
 All our arguments can be found in our [writings](https://exegetes.eu.org/recours/renseignement/CEtat/) [FR], but these documents are voluminous (for example the main document is around 90 pages). Our goal here is to give a synthetic overview.
 
@@ -57,9 +52,7 @@ However, it says nothing about how access to information gathered is organised i
 
 The provisions on international surveillance legalise the vast Internet traffic collection system implemented by the DGSE (French foreign intelligence services) since 2008 to catch up with the NSA and the GCHQ in this area. It is very large-scale surveillance: the Prime Minister is to designate the submarine cables and other networks on which the DGSE can connect and authorises it to set up mass interceptions of the traffic.
 
-This indiscriminate surveillance of communications constitutes a frontal attack on the Rule of Law that is contrary to the case law of the ECJ and the ECHR, which require to specify the existence of a reasonable suspicion against the persons whose communications are intercepted. On this matter, the Dutch MEP Sophie in't Veld [just challenged](https://twitter.com/SophieintVeld/status/727844560731287552) those provisions before the CNCTR[^cnctr].
-
-[^cnctr]: National Oversight Commission for Intelligence-Gathering Techniques.
+This indiscriminate surveillance of communications constitutes a frontal attack on the Rule of Law that is contrary to the case law of the ECJ and the ECHR, which require to specify the existence of a reasonable suspicion against the persons whose communications are intercepted. On this matter, the Dutch MEP Sophie in't Veld [just challenged](https://twitter.com/SophieintVeld/status/727844560731287552) those provisions before the CNCTR[^](National Oversight Commission for Intelligence-Gathering Techniques.).
 
 Finally, as the French Constitutional Council has validated, citizens under surveillance have no legal remedy to challenge the so-called international surveillance measures, which is blatantly violating European conventions.
 
@@ -89,9 +82,8 @@ But there is more!
 
 # Back to the Constitutional Council? (surprise!)
 
-We just asked for a priority preliminary ruling on issues of constitutionality (QPC[^qpc]) that will have to pass the French Council of State's scrutiny and will, hopefully, be referred to the Constitutional Council.
+We just asked for a priority preliminary ruling on issues of constitutionality \(QPC[^](The QPC is a French Constitutional Law procedure allowing persons involved in a pending case to ask the Constitutional Council to assess the constitutionality of the laws relating to the case at hand.)\) that will have to pass the French Council of State's scrutiny and will, hopefully, be referred to the Constitutional Council.
 
-[^qpc]: The QPC is a French Constitutional Law procedure allowing persons involved in a pending case to ask the Constitutional Council to assess the constitutionality of the laws relating to the case at hand.
 
 But why going back before the constitutional judges, when they have already largely [deliberated on the Surveillance Law](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2015-713-dc/version-en-anglais.146958.html), rejecting most criticisms that we, as many others, submitted?
 
@@ -103,9 +95,7 @@ Hunting for this article 20, we found it as such, unchanged for the last 25 year
 
 This article specifies that *"measures taken by public authorities to monitor and control wireless communications for the specific defense of national interests are not subject to the provisions of this book"*.
 
-For a start, the notion of *"wireless communications"*[^quote] might not be clear for everybody, and it is useful to provide a few examples. It might concern, for instance, all information sent:
-
-[^quote]: « \[T\]ransmissions empruntant la voie hertzienne » in French.
+For a start, the notion of *"wireless communications"*[^](« \[T\]ransmissions empruntant la voie hertzienne » in French.) might not be clear for everybody, and it is useful to provide a few examples. It might concern, for instance, all information sent:
 
 - between a mobile phone and its relay antenna (GSM/3G/4G);
 - between a WiFi hotspot and a computer, smartphone or tablet;
@@ -127,10 +117,8 @@ Thus, the lawmaker leaves the door open for all sorts of surveillance measure by
 
 Should a person's phone calls be destroyed after a set time once intercepted? Does an independent authority verify that the emails sent from a smartphone have been intercepted for a legitimate reason? What legal remedies are offered to citizens under surveillance? Nothing is specified on these matters.
 
-Thus, all wireless communications are **de facto** excluded from the scope of the - still insufficient - control procedures established by intelligence techniques. In other words, while the Government claimed to supervise intelligence techniques, it merely did so for a few wired communication techniques. What is even more shocking is that during the legislative debates on the Surveillance Law, our attention was particularly drawn to the IMSI catchers. But these intelligence techniques are essentially not covered by the Surveillance Law, since they apply exclusively to wireless communication.
+Thus, all wireless communications are *de facto* excluded from the scope of the - still insufficient - control procedures established by intelligence techniques. In other words, while the Government claimed to supervise intelligence techniques, it merely did so for a few wired communication techniques. What is even more shocking is that during the legislative debates on the Surveillance Law, our attention was particularly drawn to the IMSI catchers. But these intelligence techniques are essentially not covered by the Surveillance Law, since they apply exclusively to wireless communication.
 
-In the face of such a lack of safeguards, we can only expect the French Constitutional Council to follow its own case law and to censure this provision for "negative incompetence"[^competence], as it had done so with the Surveillance Law by censoring the provisions pretending to regulate international surveillance.
-
-[^competence]: The notion of "negative competence" is a French Constitutional Law one, referring to cases where the legislator has overlooked his competence derived from the principle of legality (art. 34 of the French Constitution). The omission of this principle leaves the regulatory power with the task of regulating cases which should have been regulated in the law.
+In the face of such a lack of safeguards, we can only expect the French Constitutional Council to follow its own case law and to censure this provision for "negative incompetence"[^](The notion of "negative competence" is a French Constitutional Law one, referring to cases where the legislator has overlooked his competence derived from the principle of legality \(art. 34 of the French Constitution\). The omission of this principle leaves the regulatory power with the task of regulating cases which should have been regulated in the law.), as it had done so with the Surveillance Law by censoring the provisions pretending to regulate international surveillance.
 
 Apart from this legal action, whose delays are strictly limited, we will certainly have to be patient since the Government will most likely run out the clock and try to avoid that any case be brought before a European jurisdiction. Three years after the beginning of the Snowden revelations, and  facing the inertia of the European Parliament, it is now the judges' turn to have the final say. Let us hope they will overcome the temptation of following the reason of State.
